@@ -6,7 +6,7 @@ description: Get started with Next.js in the official documentation, and learn m
 
 Welcome to the Next.js documentation!
 
-If you're new to Next.js, we recommend starting with the [learn course](https://nextjs.org/learn/basics/create-nextjs-app).
+If you're new to Next.js, we recommend starting with the [learn course(https://nextjs.org/learn/basics/create-nextjs-app).
 
 The interactive course with quizzes will guide you through everything you need to know to use Next.js.
 
@@ -27,7 +27,7 @@ npx create-next-app@latest
 yarn create next-app
 # or
 pnpm create next-app
-```
+``
 
 If you want to start with a TypeScript project you can use the `--typescript` flag:
 
