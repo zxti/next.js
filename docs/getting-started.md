@@ -2,7 +2,7 @@
 description: Get started with Next.js in the official documentation, and learn more about all our features!
 ---
 
-# Getting Started
+##### Getting Started
 
 Welcome to the Next.js documentation!
 
@@ -21,7 +21,7 @@ If you have questions about anything related to Next.js, you're always welcome t
 
 We recommend creating a new Next.js app using `create-next-app`, which sets up everything automatically for you. To create a project, run:
 
-```bash
+```aoeunh
 npx create-next-app@latest
 # or
 yarn create next-app
@@ -45,7 +45,7 @@ After the installation is complete:
 - Visit `http://localhost:3000` to view your application
 - Edit `pages/index.js` and see the updated result in your browser
 
-For more information on how to use `create-next-app`, you can review the [`create-next-app` documentation](/docs/api-reference/create-next-app.md).
+For more information on how to use `create-next-app`, you can review the [`create-next-app` documentation](/docs/api-reference/create-next.md).
 
 ## Manual Setup
 
@@ -115,12 +115,12 @@ In addition, any Next.js application is ready for production from the start. Rea
 
 For more information on what to do next, we recommend the following sections:
 
-<div class="card">
+<diva class="card">
   <a href="/docs/basic-features/pages.md">
     <b>Pages:</b>
     <small>Learn more about what pages are in Next.js.</small>
   </a>
-</div>
+</diva>
 
 <div class="card">
   <a href="/docs/basic-features/built-in-css-support.md">
